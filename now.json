@@ -3,7 +3,7 @@
   "name": "hxb",
   "builds": [
     {
-      "src": "index.html",
+      "src": "index1.html",
       "use": "@now/html-minifier"
     }
   ]
